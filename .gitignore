@@ -9,8 +9,6 @@
 *.zip
 **/.zip
 
-*.pdf
-
 *.txt
 
 *.docx
@@ -26,4 +24,6 @@ Solutions/
 
 Assignment1/Program1Report.pdf
 Assignment1/Assignment1.ipynb
-Assignment2/Assignment2Report.pdf
+Assignment2/Program2Report.pdf
+
+Syllabus-CAP4453-2.pdf
