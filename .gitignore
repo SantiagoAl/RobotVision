@@ -14,7 +14,7 @@
 *.docx
 **/.docx
 
-**/.py
+**/*.py
 
 Slides/
 tutorialSlides/
